@@ -1,0 +1,7 @@
+# Dependencias para 'Editor y Procesador de Video Pro'
+customtkinter>=6.0.0
+moviepy>=2.0.0
+Pillow>=10.0.0
+psutil>=5.9.0
+numpy>=1.25.0
+proglog>=0.1.10
